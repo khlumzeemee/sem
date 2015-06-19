@@ -1,0 +1,4 @@
+com\sem\domain\CustomerVirtualProjection.class
+com\sem\service\MoneyTransferController.class
+com\sem\Application.class
+com\sem\SecurityConfig.class
