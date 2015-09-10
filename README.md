@@ -1,5 +1,5 @@
 # sem
-SEM is a basic project explore the abilities of spring-boot as a fast track development framework
+SEM is a basic project to explore the abilities of spring-boot as a fast track development framework
 
 Areas of interest include:
 - REST services
